@@ -26,10 +26,11 @@ npm run preview
 
 - **Home** – hero section, demo statistics with count-up animation, and clickable blood group
   cards that pre-filter the donor directory.
-- **Find Donors** – filter donors by blood group, city, and availability; view details and
-  reveal demo contact info.
-- **Emergency Requests** – live board of active requests, sorted by urgency, with critical
-  cases highlighted in red and an "I Can Donate" action.
+- **Find Donors** – filter donors by blood group, city, and availability; sort results by
+  availability, blood group, name, city, or most recent donation; view details and reveal
+  demo contact info.
+- **Emergency Requests** – live board of active requests with sorting by urgency, newest,
+  blood group, or hospital; critical cases highlighted in red and an "I Can Donate" action.
 - **Create Blood Request** – validated form; on submit the request is saved, appears on the
   board, and matching available donors (same group + same city) are shown instantly.
 - **Become a Donor** – validated registration form with an eligibility confirmation checkbox;
